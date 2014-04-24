@@ -1,0 +1,5 @@
+Input a,b
+c=a
+a=b
+b=c
+output a,b
